@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**barbercash/barbercash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software engineer passionate about Python, AI/Machine Learning, and Data Science. When I'm not working/developing my computer skills I enjoy exercising, reading, video games, and spending time with friends/family. Go Timberwolves! :wolf:
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Programming: Python, Java, C++, SQL
+- Libraries/Frameworks: Pandas, Numpy, Scikit
+- Tools: Git, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects (TBD)
+
+## 📫 Contact Me
+- [LinkedIn](www.linkedin.com/in/cash-griffith-barber)
+- [Email](mailto:barbercash@yahoo.com)
