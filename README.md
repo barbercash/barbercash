@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software engineer passionate about Python, A
 - Tools: Git, Azure
 
 ## 🌟 Projects
--[Simple Hugging Face Chatbot](https://github.com/barbercash/Simple-Hugging-Face-Chat-Bot/tree/main)
+-[Simple Hugging Face Chatbot](https://github.com/barbercash/Simple-Hugging-Face-Chat-Bot/tree/main) 
 -[Data Science Jupyter Notebooks](https://github.com/barbercash/Data-Science-Notebooks)
 
 ## 📫 Contact Me
