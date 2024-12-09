@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a software engineer passionate about Python, AI/Machin
 ## 🌟 Projects
 - [Simple Hugging Face Chatbot](https://github.com/barbercash/Simple-Hugging-Face-Chat-Bot/tree/main) 
 - [Data Science Jupyter Notebooks](https://github.com/barbercash/Data-Science-Notebooks)
+- [Article Summarizer](https://github.com/barbercash/ArticleSummarizer)
 
 ## 📫 Contact Me
 - [LinkedIn](www.linkedin.com/in/cash-griffith-barber)
